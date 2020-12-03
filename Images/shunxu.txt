@@ -1,0 +1,3 @@
+navigation.php   banner.gif,menu_line1.gif
+index.php        main_booksort.gif,main_booksort_1.gif,main_booksort_2.gif
+copyright.php    line.gif

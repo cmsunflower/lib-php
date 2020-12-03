@@ -1,0 +1,14 @@
+
+2018年9月25日
+
+1.使用mysql函数库驱动MYSQL数据库,MYSQL版本应该没有强制要求
+
+2.PHP版本使用PHP5.3.29
+
+3.使用时，PHP Settings 的 Configure error reporting 选择 Production machine 类型
+  php.ini 中  line521    error_reporting = E_ALL & ~E_DEPRECATED
+              line538    display_errors = Off
+              line549    display_startup_errors = Off
+              line559    log_errors = On
+              line593    track_errors = Off
+              line611    html_errors = Off
